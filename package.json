@@ -1,0 +1,12 @@
+{
+    "name": "rn-my-device-info",
+    "version": "1.0.0",
+    "description": "My custom device info module",
+    "main": "js/index.js",
+    "react-native": "js/index.js",
+    "codegenConfig": {
+      "name": "RNMyDeviceInfoSpec",
+      "type": "modules",
+      "jsSrcsDir": "js"
+    }
+  }
